@@ -1,0 +1,11 @@
+.comments_title {
+  text-align: center;
+  font-size: 45px;
+  color: rgb(7, 7, 65);
+  font-weight: 700;
+  margin: 25px;
+}
+.comments_list {
+  list-style: none;
+  margin: 0 150px 50px 150px;
+}

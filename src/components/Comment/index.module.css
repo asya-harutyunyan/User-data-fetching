@@ -1,0 +1,16 @@
+.comment_container {
+  margin-bottom: 15px;
+  padding: 15px;
+  border: 3px dashed rgb(129, 17, 17);
+}
+.comment_name {
+  font-size: 25px;
+  font-weight: 700;
+  color: rgb(22, 22, 87);
+}
+.comment_email {
+  font-size: 25px;
+}
+.comment_info {
+  font-size: 20px;
+}
